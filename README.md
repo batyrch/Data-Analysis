@@ -1,5 +1,5 @@
 # Data-Analysis
-Data Analysis Projects
+Data Analysis Projects (Tristan Ganry)
 
 ## Topic 0 - Customer Segmentation Techniques 
 > with Global Superstore
